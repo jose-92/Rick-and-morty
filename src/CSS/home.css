@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.header img {
+  height: 200px;
+  width: inherit;
+}
+.btn {
+  margin-right: 10px;
+  margin-top: 10px;
+  width: 20%;
+}
+.container-btn {
+  display: block;
+  text-align: center;
+}
+.hero {
+  margin: 50px 0 50px 20px;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 150px;
+  height: 150px;
+}
+.contenedor-hero {
+  display: flex;
+  justify-content: center;
+}

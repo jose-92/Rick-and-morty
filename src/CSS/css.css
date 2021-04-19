@@ -1,0 +1,16 @@
+body {
+  /* background-color: black; */
+  background-color: rgb(53, 49, 49);
+  color: white;
+}
+li {
+  list-style: none;
+}
+.contenedor {
+  width: 80%;
+  margin: auto;
+}
+img {
+  width: 180px;
+  border-radius: 10px;
+}
